@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T07:45:24.055Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="yNJfO0nhESRx1jzk_PgD" version="20.4.0" type="github"><diagram id="8G9qnGCUSb7MVIT7oF8v" name="Page-1">1Vlbb9s2FP41BuIHB7pUsvOYuO1abNkKBO2wp4GWaIsNRWokZSX79TtHpGTJkusk8JwGCEzqHPJcP95OJuEyf/hFkSK7lSnlk8BLHybh+0kQ+O+CGBqkPFrKIgotYaNY6gbtCHfsX+qInqOWLKW6N9BIyQ0r+sRECkET06MRpWTVH7aWvK+1IBs6INwlhA+pf7LUZM6LYL6jf6JskzWa/fjKcnLSDHae6IyksuqQwg+TcKmkNLaXPywpx+A1cbHzPh7gtoYpKsxTJny9yv/+urz+S/326ZuvPf3Htvp15qRsCS+dw1+UzJmGkIO48Bp/g5jkxSS8ESuNDZA+C/j5TrZEJ4oVBkONptiZ7msjZQpNRR7rlMFPRkTKkW2yepB+FEmmpJAlKoOQczQ+8GRBFTFMCn05qj7m4O/NSmFMzaNLVPxPiYG8WUthZrqGERrvz4sHO8nxobfBlqHVn1FxqWnamLhmAvuyRC5bt7ZClA1LSk5UY/hl11Cw2xB9j3NQoi6ThGq9Ljl/rKGZF5yaWotEAUKaS4eJ1v5AyVKkFHPlg3lVxgy9K0iC3AqWFtAyk3PHRi/dWvHn+M04X0oO0lFWSP00okjXRsl72uFcxfOQxHUc6rxTZejDQUD5LUxhfVOZU6PQoWbClUO2W9p+5L6r3UIJY0fLeovEEYlbnJtW9g6/0HEQfgacg+NwrlgtJiNbTGzoktvyD4PN4sbHxBdUpExsWpnaEEMvHFSUxOQ3WIBcdyEwPa4hQA2AHcxpjRmnw4LK2XtcTIhiFP0Om2JHypowXqoG0idG4QkwFXh9TIXBCKaiMUyF/xemwgGmmmCnbPuDPciSr2sMqJxwu3XWvC1RjECbEDzFRodUzrd9JqDIUDXTkBRE4IAPoTczwtlGtNBUpsOCDa5OBfI8tzdajlFE6DWIaoQKarmVVGlfYTsRzFzdM5iLAuxmM3OZGipIaSLdfrmnIbEbFBLVZnUR+BBiSJbX7Uzt0BVJ7jc1Smd7sxAAOHbXTjvxXJOcwW5cj76lgks76FYKkrh+u6ZcGpeyVIzihv07rfaZdkoOp5e266PV1Dl8Fo3/nAk6yzopDQ6dSz1s9UmgSIzibS8Qi9ga50dxE71301FlAKZGOCwNK/9lOn+QsqGH3omU7hwMXM6D6ICn7d3kNbxFSafy+enJFTVo32xy5wunyvOdx/N4XOeX18rtxcWpdLb4bTr+3BvXqaiWfPsqQF6eLrnPchivMOf3d/oaa9ZKsQdNT9V5V/D8mF4gjxxQu8vnCU6x52467d9pjhavzVloO4vokPKP9tla4a06qcWX2j5zCd79FbUL1r79ngTn8fCeKZjz99PjwDsDAF6QguP5P3lkX2BlcxfpPUexLtVWG9pCily9Blpe4FN92XBvzLqSkigKb+KJrQVZ7ptxpr1QOIcKRVO6his8pijhBF/hP70T7UVhUD9YlyJxVStO8lVK+rS6atojvQFfLbIGRY5zuDrc9IaU/Zk/WdUFLl+9qksURYOqy5U3UnUJF9Gzqy7wuSt617zOvw7CD/8B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-11T08:33:49.472Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="MMJ5_zMtrhqjzn2U24Nq" version="20.4.0" type="github" pages="2">
+  <diagram id="8G9qnGCUSb7MVIT7oF8v" name="Promises">
+    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U9m_UCAYrLHV1s0sOvwK-1" value="Promises : &amp;nbsp; In javascript a promise a good way to handle the asynchronous call/ operations. &amp;nbsp;&lt;br style=&quot;font-size: 17px;&quot;&gt;it Is used to find out if the particular async. operation/task is successfully completed or not." style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="190" y="150" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U9m_UCAYrLHV1s0sOvwK-2" value="Promises : will have 3 parts :&amp;nbsp;&lt;br&gt;1. pending : state(the process is not completed)&amp;nbsp;&lt;br&gt;2. fulfilled : success part&amp;nbsp;&lt;br&gt;3. rejected : failure part." style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="200" y="320" width="350" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U9m_UCAYrLHV1s0sOvwK-3" value="&lt;div style=&quot;font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 18px; line-height: 27px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;let&lt;/span&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;promise&lt;/span&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;new&lt;/span&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(78, 201, 176);&quot;&gt;Promise&lt;/span&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;((&lt;/span&gt;&lt;span style=&quot;color: rgb(220, 220, 170);&quot;&gt;resolve&lt;/span&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: rgb(220, 220, 170);&quot;&gt;reject&lt;/span&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;) &lt;/span&gt;&lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: rgb(106, 153, 85);&quot;&gt;// we can use that reolve or reject&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;});&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(106, 153, 85);&quot;&gt;//  &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(106, 153, 85);&quot;&gt;// promise: will hold the promise object&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(106, 153, 85);&quot;&gt;// new : to create a new object&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(106, 153, 85);&quot;&gt;// Promise : predefined class&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(106, 153, 85);&quot;&gt;// resolve : success function/lambda function/arrow function&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(106, 153, 85);&quot;&gt;// reject : failure function/lambda function/arrow function&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="170" y="555" width="900" height="385" as="geometry" />
+        </mxCell>
+        <mxCell id="OR_04lrVCaIlI9swrSU9-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="OR_04lrVCaIlI9swrSU9-1" target="OR_04lrVCaIlI9swrSU9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OR_04lrVCaIlI9swrSU9-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="OR_04lrVCaIlI9swrSU9-1" target="OR_04lrVCaIlI9swrSU9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OR_04lrVCaIlI9swrSU9-1" value="Promise" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OR_04lrVCaIlI9swrSU9-2" value="Pending" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="384" y="1060" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OR_04lrVCaIlI9swrSU9-3" value=".then method" style="whiteSpace=wrap;html=1;fontSize=17;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OR_04lrVCaIlI9swrSU9-5" value="catch method" style="whiteSpace=wrap;html=1;fontSize=17;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OR_04lrVCaIlI9swrSU9-7" value="success part" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1035" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OR_04lrVCaIlI9swrSU9-8" value="failure part" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1190" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="oXrkafVknQD4cOuu-Ugd" name="call back functions">
+    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="txShrqmTGsgqrxTGd9Di-1" value="Call Back functions : &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="370" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
