@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T08:32:33.974Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="EGCIUUCFkCEXR-hDHbVR" version="20.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-17T08:38:43.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="POFLDBpSu5uRQiVBX29W" version="20.4.0" type="github" pages="5">
   <diagram id="8G9qnGCUSb7MVIT7oF8v" name="Promises">
-    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,102 +52,108 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lmim0dl8CL9eg2EVoGx3" name="Page-3">
-    <mxGraphModel dx="1185" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="goGr3H6Dvy2NrxwgsrQ--1" value="how to create a module ?&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;Npx ng g m moduleName" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="goGr3H6Dvy2NrxwgsrQ--1" value="how to create a module ?&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;Npx ng g m moduleName" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="260" y="180" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="goGr3H6Dvy2NrxwgsrQ--2" value="Core module should be loaded @ the time of starting the application.&lt;br style=&quot;font-size: 20px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="goGr3H6Dvy2NrxwgsrQ--2" value="Core module should be loaded @ the time of starting the application.&lt;br style=&quot;font-size: 20px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="500" y="400" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="5NK6SxDklVoGgUh_Tapy-1" value="user, profile , dashboard. ===&amp;gt; should be loaded dynamically&lt;br style=&quot;font-size: 20px;&quot;&gt;to improve the performance of our application.&lt;br style=&quot;font-size: 20px;&quot;&gt;-- routing." style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="5NK6SxDklVoGgUh_Tapy-1" value="user, profile , dashboard. ===&amp;gt; should be loaded dynamically&lt;br style=&quot;font-size: 20px;&quot;&gt;to improve the performance of our application.&lt;br style=&quot;font-size: 20px;&quot;&gt;-- routing." style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="50" y="380" width="270" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="wEQeJjogP49DKLq_sqY5" name="Page-4">
-    <mxGraphModel dx="2012" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1657" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gUM87DoreuIvFS1536MD-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="gUM87DoreuIvFS1536MD-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="230" y="140" width="410" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="gUM87DoreuIvFS1536MD-2" value="Header/Navbar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="gUM87DoreuIvFS1536MD-2" value="Header/Navbar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="270" y="180" width="330" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="gUM87DoreuIvFS1536MD-3" value="Landing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="gUM87DoreuIvFS1536MD-3" value="Landing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="270" y="320" width="330" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="gUM87DoreuIvFS1536MD-4" value="Footer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="gUM87DoreuIvFS1536MD-4" value="Footer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="270" y="460" width="330" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="gUM87DoreuIvFS1536MD-5" value="components : it is a part of application UI.&lt;br&gt;&lt;br&gt;we should design the component in such a way that it should not split into multiple parts. &amp;nbsp;&lt;br&gt;&lt;br&gt;2 types of components :&amp;nbsp;&lt;br&gt;1. smart component. can have all processing parts. it can perform rest call/ can access the some business validations, or kind processing.&lt;br&gt;&lt;br&gt;2. dumb component. can&#39;t have any processing right but can accept the data from parent one and can render that info over the page." style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="gUM87DoreuIvFS1536MD-5" value="components : it is a part of application UI.&lt;br&gt;&lt;br&gt;we should design the component in such a way that it should not split into multiple parts. &amp;nbsp;&lt;br&gt;&lt;br&gt;2 types of components :&amp;nbsp;&lt;br&gt;1. smart component. can have all processing parts. it can perform rest call/ can access the some business validations, or kind processing.&lt;br&gt;&lt;br&gt;2. dumb component. can&#39;t have any processing right but can accept the data from parent one and can render that info over the page." style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-260" y="220" width="460" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="7s93a2Bx7j9-ss48Wier-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="gUM87DoreuIvFS1536MD-6">
+        <mxCell id="7s93a2Bx7j9-ss48Wier-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="gUM87DoreuIvFS1536MD-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gUM87DoreuIvFS1536MD-6" value="npx ng g c moduleName/components/purposeofcomponents/nameofthecomponent&lt;br&gt;npx : node package execute&lt;br&gt;ng : angular&lt;br&gt;g : generate&lt;br&gt;c : component&lt;br&gt;moduleName : name of the module(because we want to create the component under that module).&lt;br&gt;&lt;b&gt;components&lt;/b&gt; : to hold all components in the module.&lt;br&gt;purposeOfComponent: to group the components on the basis of purpose/expectation.&lt;br&gt;name of the component: name of the component.&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="gUM87DoreuIvFS1536MD-6" value="npx ng g c moduleName/components/purposeofcomponents/nameofthecomponent&lt;br&gt;npx : node package execute&lt;br&gt;ng : angular&lt;br&gt;g : generate&lt;br&gt;c : component&lt;br&gt;moduleName : name of the module(because we want to create the component under that module).&lt;br&gt;&lt;b&gt;components&lt;/b&gt; : to hold all components in the module.&lt;br&gt;purposeOfComponent: to group the components on the basis of purpose/expectation.&lt;br&gt;name of the component: name of the component.&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-200" y="730" width="940" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="d-iSySafDXBiNErcDDWH-1" value="npx ng g core/components/layout/header" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="d-iSySafDXBiNErcDDWH-1" value="npx ng g core/components/layout/header" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-150" y="1010" width="860" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d-iSySafDXBiNErcDDWH-2" value="1. &amp;nbsp;.css : will hold all formatting/beautification code&amp;nbsp;&lt;br&gt;2. .html will hold complete UI&lt;br&gt;3. .ts : will hold controlling logic for our UI.&lt;br&gt;4. .spec.ts : testing related stuff&lt;br&gt;5. update in module : to confirm that this component belongs to the module. [declaration]==&amp;gt; it will just list out the name of the component.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="d-iSySafDXBiNErcDDWH-2" value="1. &amp;nbsp;.css : will hold all formatting/beautification code&amp;nbsp;&lt;br&gt;2. .html will hold complete UI&lt;br&gt;3. .ts : will hold controlling logic for our UI.&lt;br&gt;4. .spec.ts : testing related stuff&lt;br&gt;5. update in module : to confirm that this component belongs to the module. [declaration]==&amp;gt; it will just list out the name of the component.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-70" y="1120" width="550" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="d-iSySafDXBiNErcDDWH-3" value="npx ng serve -o&lt;br&gt;npx :&amp;nbsp;&lt;br&gt;ng :&amp;nbsp;&lt;br&gt;serve : will start deploying the application&amp;nbsp;&lt;br&gt;-o : will open on a default browser." style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="d-iSySafDXBiNErcDDWH-3" value="npx ng serve -o&lt;br&gt;npx :&amp;nbsp;&lt;br&gt;ng :&amp;nbsp;&lt;br&gt;serve : will start deploying the application&amp;nbsp;&lt;br&gt;-o : will open on a default browser." style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-150" y="1390" width="670" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="d-iSySafDXBiNErcDDWH-4" value="@NgModule : directive ==&amp;gt; annotations(meta data)&lt;br&gt;it will hold the data about the module:&lt;br&gt;Declaration: [ list of components] ,&amp;nbsp;&lt;br&gt;imports : [will hold the list of imported modules(required in the respective module)]&lt;br&gt;providers : [ services will perform Business validations, rest calls ],&lt;br&gt;bootstrap:[ entry component.]" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+        <mxCell id="d-iSySafDXBiNErcDDWH-4" value="@NgModule : directive ==&amp;gt; annotations(meta data)&lt;br&gt;it will hold the data about the module:&lt;br&gt;Declaration: [ list of components] ,&amp;nbsp;&lt;br&gt;imports : [will hold the list of imported modules(required in the respective module)]&lt;br&gt;providers : [ services will perform Business validations, rest calls ],&lt;br&gt;bootstrap:[ entry component.]" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="-120" y="1670" width="590" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Q6bcCuTQri5cKGU18Q7m" name="module wise structure">
-    <mxGraphModel dx="2253" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1657" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="93jjZZEVPRHPpkjlWWQ1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="93jjZZEVPRHPpkjlWWQ1-1" target="93jjZZEVPRHPpkjlWWQ1-2">
+        <mxCell id="93jjZZEVPRHPpkjlWWQ1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="93jjZZEVPRHPpkjlWWQ1-1" target="93jjZZEVPRHPpkjlWWQ1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="93jjZZEVPRHPpkjlWWQ1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="93jjZZEVPRHPpkjlWWQ1-1" target="93jjZZEVPRHPpkjlWWQ1-4">
+        <mxCell id="93jjZZEVPRHPpkjlWWQ1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="93jjZZEVPRHPpkjlWWQ1-1" target="93jjZZEVPRHPpkjlWWQ1-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="93jjZZEVPRHPpkjlWWQ1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="93jjZZEVPRHPpkjlWWQ1-1" target="93jjZZEVPRHPpkjlWWQ1-7">
+        <mxCell id="93jjZZEVPRHPpkjlWWQ1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="93jjZZEVPRHPpkjlWWQ1-1" target="93jjZZEVPRHPpkjlWWQ1-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="93jjZZEVPRHPpkjlWWQ1-1" value="DevConnector" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="93jjZZEVPRHPpkjlWWQ1-1" value="DevConnector" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="354" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="93jjZZEVPRHPpkjlWWQ1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="93jjZZEVPRHPpkjlWWQ1-2" target="93jjZZEVPRHPpkjlWWQ1-9">
+        <mxCell id="93jjZZEVPRHPpkjlWWQ1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="93jjZZEVPRHPpkjlWWQ1-2" target="93jjZZEVPRHPpkjlWWQ1-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="93jjZZEVPRHPpkjlWWQ1-2" value="Core" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="1">
+        <mxCell id="93jjZZEVPRHPpkjlWWQ1-2" value="Core" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="93jjZZEVPRHPpkjlWWQ1-4" value="Users" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="1">
+        <mxCell id="hZjdPMiOdzMP9R9WIitC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="93jjZZEVPRHPpkjlWWQ1-4" target="hZjdPMiOdzMP9R9WIitC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93jjZZEVPRHPpkjlWWQ1-4" value="Users" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="93jjZZEVPRHPpkjlWWQ1-6" value="header/navbar&lt;br&gt;landing&amp;nbsp;&lt;br&gt;footer component&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="93jjZZEVPRHPpkjlWWQ1-6" value="header/navbar&lt;br&gt;landing&amp;nbsp;&lt;br&gt;footer component&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-120" y="280" width="150" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="93jjZZEVPRHPpkjlWWQ1-7" value="Dashboard" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="1">
+        <mxCell id="93jjZZEVPRHPpkjlWWQ1-7" value="Dashboard" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="554" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="93jjZZEVPRHPpkjlWWQ1-9" value="will hold all commonly read data" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="1">
+        <mxCell id="93jjZZEVPRHPpkjlWWQ1-9" value="will hold all commonly read data" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="530" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="nqavk-8AJcaXk53l2COD-1" value="create profile&lt;br&gt;add exp&lt;br&gt;add edu&lt;br&gt;edit&amp;nbsp;&lt;br&gt;&lt;br&gt;display&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="474" y="450" width="216" height="170" as="geometry" />
+        <mxCell id="nqavk-8AJcaXk53l2COD-1" value="create profile&lt;br&gt;add exp&lt;br&gt;add edu&lt;br&gt;edit&amp;nbsp;&lt;br&gt;&lt;br&gt;display&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="600" y="335" width="216" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="hZjdPMiOdzMP9R9WIitC-1" value="Register&amp;nbsp;&lt;br style=&quot;font-size: 21px;&quot;&gt;Login" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="354" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
