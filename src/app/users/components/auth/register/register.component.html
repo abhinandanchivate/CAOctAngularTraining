@@ -2,18 +2,23 @@
   <div class="container">
     <div class="row">
       <div class="col-md-8 m-auto">
-        <h1 class="display-4 text-center">Sign Up</h1>
+        <h1 class="display-4 text-center">Sign Up {{ errorDetail | json }}</h1>
         <p class="lead text-center">Create your DevConnector account</p>
         <form (ngSubmit)="registerSubmit()">
           <div class="form-group">
             <input
               type="text"
-              class="form-control form-control-lg"
+              class=""
+              [ngClass]="{
+                'form-control form-control-lg': true,
+                'is-invalid': errorDetail.name
+              }"
               placeholder="Name"
               name="name"
               [(ngModel)]="register.name"
               required
             />
+            <div class="d-block invalid-feedback">{{ errorDetail.name }}</div>
           </div>
           <div class="form-group">
             <input
