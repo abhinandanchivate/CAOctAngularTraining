@@ -3,16 +3,37 @@ import {
   HttpRequest,
   HttpHandler,
   HttpEvent,
-  HttpInterceptor
+  HttpInterceptor,
 } from '@angular/common/http';
-import { Observable } from 'rxjs';
+import { Observable, tap } from 'rxjs';
 
 @Injectable()
 export class LogInterceptor implements HttpInterceptor {
-
   constructor() {}
+  // unknown vs any
+  intercept(
+    request: HttpRequest<any>,
+    next: HttpHandler
+  ): Observable<HttpEvent<any>> {
+    // rest api
+    // time tracking
 
-  intercept(request: HttpRequest<unknown>, next: HttpHandler): Observable<HttpEvent<unknown>> {
-    return next.handle(request);
+    const startTime: Date = new Date();
+    console.log(JSON.stringify(request));
+    // data
+
+    return next.handle(request).pipe(
+      tap((e: any): void => {
+        console.log(JSON.stringify(e));
+
+        console.log((new Date().valueOf() - startTime.valueOf()) / 1000);
+        //  return { headers: e.headers, statusText: e.statusText };
+      })
+    );
   }
 }
+
+// limiting the tracking to specific domain : https://api.ca.com
+// https://api2.ca.com
+
+// threshold for tracking the request.
